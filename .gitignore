@@ -1,2 +1,6 @@
 .DS_Store
 
+# Plugin settings (user-local, not committed)
+.claude/*.local.md
+.claude/*.local.json
+
