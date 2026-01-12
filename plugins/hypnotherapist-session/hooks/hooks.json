@@ -1,0 +1,15 @@
+{
+  "description": "Hypnotherapist mode hook that adds therapeutic, calming interaction instructions",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks-handlers/session-start.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "hypnotherapist-session",
+  "version": "1.0.0",
+  "description": "Therapeutic interaction style that provides calming, patient guidance with positive reinforcement",
+  "author": {
+    "name": "Claude Code",
+    "email": "code@anthropic.com"
+  }
+}
